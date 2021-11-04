@@ -10,7 +10,7 @@ To Do's:
 
 I hope this helps you to improve your flow of work 🎉📱🏆🎊
 
-Thank you very much for beeing interesting in this script. If you have some spare time and you see something that you would like to improve, contribute to this project! 
+Thank you very much for beeing interested in this script. If you have some spare time and you see something that you would like to improve, please contribute to make this script better.
 
 All the best,
 Florian
