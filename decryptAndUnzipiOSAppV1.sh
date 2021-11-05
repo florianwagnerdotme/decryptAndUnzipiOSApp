@@ -15,7 +15,7 @@
 #                                                                                                              #
 ## Following prerequirements have to be fullfilled:                                                            #
 # 1. The iOS device has to be connected via USB.                                                               #
-# 2. The have to be frida server and client can communicate with eachother.                                    #
+# 2. The frida server and client can communicate with eachother.                                               #
 # Make sure that the frida-server is running on the iOS device!                                                #
 ################################################################################################################
 
