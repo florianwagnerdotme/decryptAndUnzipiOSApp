@@ -26,7 +26,7 @@ if [[ $? -eq 0 ]] ; then
     exit 1
 fi
 
-# uncomment the following line if you want to setup a static path, comment line 25,26
+# uncomment the following line if you want to setup a static path
 #dumpPyPath=/../../frida-ios-dump/dump.py
 
 # comment the following two lines if you have set a static path above
@@ -49,7 +49,7 @@ if [[ $? -eq 0 ]] ; then
         exit 1
 fi
 
-# uncomment the following line if you want to setup a static pw for your iOS device ssh connection, comment line 48, 49
+# uncomment the following line if you want to setup a static pw for your iOS device ssh connection
 #sshpw=TopSecret
 
 # comment the follow two lines if you have set a static password above
