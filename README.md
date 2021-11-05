@@ -3,7 +3,7 @@
 "decryptAndUnzipiOSApp.sh" is a bash script executable on UNIX systems. 
 This script will make it easier and faster to download/decrypt and unzip an iOS app on your testing device. It gets you ready that you can immediately start with your static analysis.
 
-**Make sure your device is unlocked and connected via an official Apple lightning cable when executing this script!**
+**Make sure your device is unlocked and connected via an official Apple Lightning cable when executing this script!**
 
 # disclamer
 
