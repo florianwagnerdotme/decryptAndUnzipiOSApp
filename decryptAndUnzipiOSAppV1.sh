@@ -16,7 +16,7 @@
 ## Following prerequirements have to be fullfilled:                                                            #
 # 1. The iOS device has to be connected via USB.                                                               #
 # 2. The frida server and client can communicate with eachother.                                               #
-# Make sure that the frida-server is running on the iOS device!                                                #
+# Double check that the frida-server is running on the iOS device!                                                #
 ################################################################################################################
 
 ls | grep "Payload" &> /dev/null
@@ -33,7 +33,8 @@ fi
 echo -n "Please enter the full path to your dump.py file in the form: /../../frida-ios-dump/dump.py : "
 read dumpPyPath
 
-echo "To make it easier on you I recommend you to add the path to your dump.py in line 22"
+# this output is optional
+echo "To make it easier on you I recommend you to add the path to your dump.py in line 30 of the script"
 
 echo -n "Please enter the app's name you want to download: "
 read appname
